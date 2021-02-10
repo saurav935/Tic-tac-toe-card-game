@@ -1,5 +1,8 @@
 # Tic-tac-toe-card-game
 
+![download](https://user-images.githubusercontent.com/75733364/107472951-ddc66d00-6b95-11eb-901f-fbc4ba8b88b8.png)
+
+
 This is a simple tic-tac-toe game built using Python
 
 To run this program offline, by using terminal or command prompt
